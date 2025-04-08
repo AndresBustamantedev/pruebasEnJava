@@ -16,7 +16,7 @@ public class Ahorcado {
         int intentos = 0;
         boolean palabraAdivinada = false;
 
-        //optimizar el código 2
+        //optimizar el código
 
         // Crear un arreglo de caracteres para almacenar las letras adivinadas
         char[] letrasAdivinadas = new char[palabraSecreta.length()];
